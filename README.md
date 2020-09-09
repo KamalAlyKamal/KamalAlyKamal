@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KamalAlyKamal.KamalAlyKamal)
+[![Visits Badge](https://badges.pufler.dev/visits/KamalAlyKamal/KamalAlyKamal)](https://badges.pufler.dev/visits/KamalAlyKamal/KamalAlyKamal)
 ### Hi there 👋
 
 <!--
