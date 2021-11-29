@@ -1,7 +1,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/KamalAlyKamal/KamalAlyKamal)](https://badges.pufler.dev/visits/KamalAlyKamal/KamalAlyKamal)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there</h1>
 
-Hi, I'm Kamal, a web and app developer 👨🏻‍💻 from Egypt. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for awesome products. I'm proud to say that **I can succesfully center an element with css.** Beside's programming stuff, I play games.
+Hi, I'm Kamal, a web developer 👨🏻‍💻 from Egypt. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for awesome products. I'm proud to say that **I can succesfully center an element with css.** Beside's programming stuff, I play games.
 
 #### 📫 How to reach me: 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/kamal-aly-346137115/)
